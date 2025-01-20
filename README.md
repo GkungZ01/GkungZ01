@@ -1,7 +1,7 @@
 Hi 👋 My name is Ratchanon Sila
 ===============================
 
-Back End Developer
+Full Stack Developer
 ------------------
 
 I started with PHP but found myself really passionate about backend development. I'm looking for an internship.
