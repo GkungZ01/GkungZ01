@@ -78,6 +78,7 @@ I'm a passionate backend developer with expertise in multiple programming langua
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GkungZ01&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GkungZ01&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
