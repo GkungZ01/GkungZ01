@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Welcome to My Repository ⚡</h1>
 
 <p align="center">
-  <img src="https://github.com/GkungZ01/GkungZ01/blob/main/assets/hu-tao.gif" alt="thinking-hmm">
+  <img src="https://github.com/GkungZ01/GkungZ01/blob/main/assets/hu-tao.gif?v=2" alt="thinking-hmm">
 </p>
 
 # Hi 👋 My name is Ratchanon Sila
