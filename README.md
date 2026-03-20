@@ -27,7 +27,7 @@
 - 🌍  Based in `Thailand`
 - 🖥️  Portfolio: [View My Work](http://gkungz01.github.io)
 - ✉️  Contact: [getjung16@gmail.com](mailto:getjung16@gmail.com)
-- 🧠  Currently learning `GraphQL` & `Apollo`
+- 🧠  Currently learning `C#` & `PostgreSQL`
 - 💼  Open to collaboration and new opportunities
 
 ###
