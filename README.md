@@ -1,9 +1,10 @@
 <h1 align="center">⚡ Welcome to My Repository ⚡</h1>
 
-###
-<p>
-  <img align="right" height="600" src="https://github.com/GkungZ01/GkungZ01/blob/main/assets/hu-tao.gif?raw=true"  />
-</p>
+<br clear="both">
+
+<div align="center">
+  <img height="600" src="https://github.com/GkungZ01/GkungZ01/blob/main/assets/hu-tao.gif?raw=true"  />
+</div>
 
 ###
 
@@ -23,7 +24,11 @@
 
 ###
 
-<p align="left">🌍 Based in Bangkok, Thailand<br>🖥️ Portfolio: View My Work<br>✉️ Contact: getjung16@gmail.com<br>🧠 Currently mastering Python and TypeScript<br>💼 Open to collaboration and new opportunities</p>
+- 🌍  Based in `Thailand`
+- 🖥️  Portfolio: [View My Work](http://gkungz01.github.io)
+- ✉️  Contact: [getjung16@gmail.com](mailto:getjung16@gmail.com)
+- 🧠  Currently learning `GraphQL` & `Apollo`
+- 💼  Open to collaboration and new opportunities
 
 ###
 
