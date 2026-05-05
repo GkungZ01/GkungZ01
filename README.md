@@ -26,7 +26,7 @@
 
 - 🌍  Based in `Thailand`
 - 🖥️  Portfolio: [View My Work](http://gkungz01.github.io)
-- ✉️  Contact: [getjung16@gmail.com](mailto:getjung16@gmail.com)
+- ✉️  Contact: [getjung16@gmail.com](mailto:ratchanon.s.dev@gmail.com)
 - 🧠  Currently learning `C#` & `PostgreSQL`
 - 💼  Open to collaboration and new opportunities
 
